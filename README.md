@@ -8,5 +8,3 @@ Furthermore, there are smaller features, such as emergency contacts, that make t
 All the C files consist of complete documentation.
 
 This self developed program is under the MIT License.
-
-Developed by Abhinav Gupta.
